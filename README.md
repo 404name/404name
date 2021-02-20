@@ -4,7 +4,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=404name&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![]( https://visitor-badge.glitch.me/badge?page_id=<your_page_id>)
+![]( https://visitor-badge.glitch.me/badge?page_id=404name)
 <!--
 **404name/404name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 :
