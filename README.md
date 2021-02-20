@@ -3,7 +3,7 @@
 欢迎来的我的github页面~
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=404name&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${404name})
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=404name)
 <!--
 **404name/404name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 :
