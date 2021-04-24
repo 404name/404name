@@ -1,4 +1,4 @@
-[![Focus Repo](https://qiniucdn.404name.top/pic/mdvo58%20(1).jpg)](https://github.com/404name)
+[![Focus Repo](https://cdn.docsmall.com/assets/img/28376f5.gif)](https://github.com/404name)
 ### Hi there 👋![]( https://visitor-badge.glitch.me/badge?page_id=404name)
 
 欢迎来的我的github页面~
