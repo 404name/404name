@@ -22,5 +22,5 @@
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=winter)](https://github.com/404name/winter)
 
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=winter)](https://qiniucdn.404name.top/pic/mdvo58%20(1).jpg)
+[![Focus Repo](https://qiniucdn.404name.top/pic/mdvo58%20(1).jpg)](https://github.com/404name)
 
