@@ -17,3 +17,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+####  :404name:  Focusing
+
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=Reinforcement-Learning-Notes)](https://github.com/404name/winter)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=Inios)](https://github.com/404name/C-game)
+
+####  :hammer:  Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJLAugus&hide=html,css)](https://github.com/404name)
+
+
+
