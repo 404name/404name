@@ -18,9 +18,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 🌱404name:  Focusing
-
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=winter)](https://github.com/404name/winter)
 
 
 
