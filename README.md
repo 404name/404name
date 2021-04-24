@@ -1,3 +1,4 @@
+[![Focus Repo](https://qiniucdn.404name.top/pic/mdvo58%20(1).jpg)](https://github.com/404name)
 ### Hi there 👋![]( https://visitor-badge.glitch.me/badge?page_id=404name)
 
 欢迎来的我的github页面~
@@ -22,5 +23,5 @@
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=winter)](https://github.com/404name/winter)
 
 
-[![Focus Repo](https://qiniucdn.404name.top/pic/mdvo58%20(1).jpg)](https://github.com/404name)
+
 
