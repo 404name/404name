@@ -19,8 +19,8 @@
 -->
 ####  :404name:  Focusing
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=Reinforcement-Learning-Notes)](https://github.com/404name/winter)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=Inios)](https://github.com/404name/C-game)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=winter)](https://github.com/404name/winter)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=C-game)](https://github.com/404name/C-game)
 
 ####  :hammer:  Language
 
