@@ -20,7 +20,7 @@
 #### 🌱404name:  Focusing
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=winter)](https://github.com/404name/winter)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=404name&repo=C-game)](https://github.com/404name/C-game)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJLAugus&hide=html,css)](https://github.com/404name)
 
 #### 👯hammer:  Language
 
