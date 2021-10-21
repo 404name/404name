@@ -6,7 +6,7 @@
 
 ---
 
- |    🔖[Notion个人导航](https://404name.notion.site/404name/c2807e121dc74e9facc0f77148817aaf?v=46710760d6ab47829adffb707d4a3b3e&p=d6ec1304127f4f70b5bc2b9837c137e7)   |    [🚀 CSDN](https://blog.csdn.net/weixin_45590872)   |    [🎈 Bilibili](https://space.bilibili.com/29209613)  |    [📚 知识库](https://www.yuque.com/404name)   |   [💻 我的网站](https://blog.404name.top)   |  [✨ 启明星工作室](https://ctguqmx.gitee.io/hello-qmx/)   |   [⚙️ 我的项目](https://www.yuque.com/404name/blog/mu2y54)  | 
+ |    🔖[Notion个人导航](https://404name.notion.site/404name/c2807e121dc74e9facc0f77148817aaf?v=46710760d6ab47829adffb707d4a3b3e)   |    [🚀 CSDN](https://blog.csdn.net/weixin_45590872)   |    [🎈 Bilibili](https://space.bilibili.com/29209613)  |    [📚 知识库](https://www.yuque.com/404name)   |   [💻 我的网站](https://blog.404name.top)   |  [✨ 启明星工作室](https://ctguqmx.gitee.io/hello-qmx/)   |   [⚙️ 我的项目](https://www.yuque.com/404name/blog/mu2y54)  | 
 
 ---
 
